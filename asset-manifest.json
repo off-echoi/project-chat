@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kakaostyle_test/static/css/main.09c19c13.css",
+    "main.js": "/kakaostyle_test/static/js/main.38a1e125.js",
+    "static/js/787.4c69dff6.chunk.js": "/kakaostyle_test/static/js/787.4c69dff6.chunk.js",
+    "static/media/AppleSDGothicNeoL.ttf": "/kakaostyle_test/static/media/AppleSDGothicNeoL.0ed4f3cf8e0a053dbc9c.ttf",
+    "static/media/AppleSDGothicNeoB.ttf": "/kakaostyle_test/static/media/AppleSDGothicNeoB.4175a777557557f7d294.ttf",
+    "static/media/AppleSDGothicNeoM.ttf": "/kakaostyle_test/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
+    "static/media/AppleSDGothicNeoEB.ttf": "/kakaostyle_test/static/media/AppleSDGothicNeoEB.ea6bd07739f11db86707.ttf",
+    "index.html": "/kakaostyle_test/index.html",
+    "static/media/img-user.svg": "/kakaostyle_test/static/media/img-user.84302687566a899e0361b8ec1fdd7ac6.svg",
+    "static/media/img-upload.svg": "/kakaostyle_test/static/media/img-upload.877f95a40fe6c6fbeba15ca5c895be96.svg",
+    "static/media/img-search.svg": "/kakaostyle_test/static/media/img-search.1471336beecf72b6cd268a89fc96f255.svg",
+    "static/media/img-back.svg": "/kakaostyle_test/static/media/img-back.e62bd421bb179cd381d344b8b81c4e9f.svg",
+    "static/media/img-send.svg": "/kakaostyle_test/static/media/img-send.6002591c3a1e0540e117a0e4c353030d.svg",
+    "static/media/img-close.svg": "/kakaostyle_test/static/media/img-close.9d17efefc2e468ed26c25ba0e0fcc79f.svg",
+    "static/media/img-menu.svg": "/kakaostyle_test/static/media/img-menu.e0ee778d66914f4a2c4bd1a1d120a8ff.svg",
+    "main.09c19c13.css.map": "/kakaostyle_test/static/css/main.09c19c13.css.map",
+    "main.38a1e125.js.map": "/kakaostyle_test/static/js/main.38a1e125.js.map",
+    "787.4c69dff6.chunk.js.map": "/kakaostyle_test/static/js/787.4c69dff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c19c13.css",
+    "static/js/main.38a1e125.js"
+  ]
+}
