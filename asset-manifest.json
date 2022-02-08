@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-chat/static/css/main.6205756a.css",
-    "main.js": "/project-chat/static/js/main.63c9ccc5.js",
+    "main.js": "/project-chat/static/js/main.60de51f9.js",
     "static/js/787.4c69dff6.chunk.js": "/project-chat/static/js/787.4c69dff6.chunk.js",
     "static/media/AppleSDGothicNeoL.ttf": "/project-chat/static/media/AppleSDGothicNeoL.0ed4f3cf8e0a053dbc9c.ttf",
     "static/media/AppleSDGothicNeoB.ttf": "/project-chat/static/media/AppleSDGothicNeoB.4175a777557557f7d294.ttf",
@@ -16,11 +16,11 @@
     "static/media/img-close.svg": "/project-chat/static/media/img-close.9d17efefc2e468ed26c25ba0e0fcc79f.svg",
     "static/media/img-menu.svg": "/project-chat/static/media/img-menu.e0ee778d66914f4a2c4bd1a1d120a8ff.svg",
     "main.6205756a.css.map": "/project-chat/static/css/main.6205756a.css.map",
-    "main.63c9ccc5.js.map": "/project-chat/static/js/main.63c9ccc5.js.map",
+    "main.60de51f9.js.map": "/project-chat/static/js/main.60de51f9.js.map",
     "787.4c69dff6.chunk.js.map": "/project-chat/static/js/787.4c69dff6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6205756a.css",
-    "static/js/main.63c9ccc5.js"
+    "static/js/main.60de51f9.js"
   ]
 }
