@@ -144,8 +144,8 @@ function Room() {
             <div key={picture?.resource} className="upload_bar"></div>
           </div>
         )}
+        <div style={{ float: 'left', clear: 'both' }} ref={messagesEnd}></div>
       </div>
-      <div style={{ float: 'left', clear: 'both' }} ref={messagesEnd}></div>
       <MessageInput roomId={id} />
     </>
   );
